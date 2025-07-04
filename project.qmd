@@ -3,13 +3,7 @@ title: "Train Smart, Train Even: What Gym Exercises Reveal About Muscle Imbalanc
 author: "Esther Calderon"
 format: 
   html:
-    code-tools: false
-    echo: false
-    warning: false
-    message: false
-    fig-width: 14.5
-execute: 
-  keep-md: true
+    self-contained: true
 ---
 
 In the pursuit of strength, aesthetics, or athletic performance, most people rely on exercise programs built from online workouts, personal trainers, or general fitness trends. But how balanced are these programs really? Using a structured dataset of over 1,000 categorized exercises—including their primary, secondary, and tertiary muscles—this study investigates which muscle groups are most frequently targeted, and more importantly, which are consistently neglected.
